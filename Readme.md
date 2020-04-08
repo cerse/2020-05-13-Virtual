@@ -27,7 +27,7 @@ We expect all attendees at this meeting to abide by the [Carpentries Code of Con
 
 Please see the link above for the full Code.
 
-If someone violates the Code of Conduct during the event we ask that you report it to one of the organisers (**Names of organisers**). All reports will be reviewed by the organisers and kept confidential.  
+If someone violates the Code of Conduct during the event we ask that you report it to one of the organisers (**Mario Antonioletti**, **Eleni Kotoulra**). All reports will be reviewed by the organisers and kept confidential.  
 
 ## Schedule
 
@@ -38,7 +38,7 @@ This is a provisional timetable. **Fix times and items for your event.**
 |14:30 | Welcome - **TBD** |
 |14:35 | Ice breaking session (opportunity to get to know your fellow attendees) -- **Optional** |
 |15:00 | **List of talks** (20 minutes + up to 10 minutes for questions) |
-|16:30 | Coffee and biscuits **TBD** |
+|16:30 | Virtual Coffee and biscuits **TBD** |
 |17:00 | Close |
 
 If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
