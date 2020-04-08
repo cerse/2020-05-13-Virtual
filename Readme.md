@@ -1,4 +1,4 @@
-# CERSE Meeting at the Bayes
+# The First Virtual CERSE Meeting
 
 ## Content
 * [Purpose](#purpose)
@@ -13,7 +13,7 @@ The primary goal of the Community of Edinburgh Research Software Engineers (CERS
 
 ##	Venue, Date, Time
 
-G.03 Bayes Centre, Wed 13 May 2020, 14:30-17:00.
+Virtual Meeting (Platform TBD), Wed 13 May 2020, 14:30-17:00.
 
 ## Code of Conduct
 
@@ -37,9 +37,9 @@ This is a provisional timetable. **Fix times and items for your event.**
 |------| ------|
 |14:30 | Welcome - **TBD** |
 |14:35 | Ice breaking session (opportunity to get to know your fellow attendees) -- **Optional** |
-|15:00 | **List of talks** |
+|15:00 | **List of talks** (20 minutes + up to 10 minutes for questions) |
 |16:30 | Coffee and biscuits **TBD** |
 |17:00 | Close |
 
-In order to get an idea of numbers for catering please **registration**. If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
+If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
 
