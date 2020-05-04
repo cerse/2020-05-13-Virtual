@@ -27,7 +27,7 @@ We expect all attendees at this meeting to abide by the [Carpentries Code of Con
 
 Please see the link above for the full Code.
 
-If someone violates the Code of Conduct during the event we ask that you report it to one of the organisers (**Mario Antonioletti**, **Eleni Kotoulra**). All reports will be reviewed by the organisers and kept confidential.  
+If someone violates the Code of Conduct during the event we ask that you report it to one of the organisers (**Mario Antonioletti**, **Eleni Kotoula**). All reports will be reviewed by the organisers and kept confidential.  
 
 ## Schedule
 
@@ -35,11 +35,14 @@ This is a provisional timetable.
 
 |Time  | Activity      |
 |------| ------|
-|14:30 | Welcome - **TBD** |
-|14:35 | Ice breaking session (opportunity to get to know your fellow attendees) -- **Optional** |
+|14:30 | Welcome  |
+|14:35 | Ice breaking session (opportunity to get to know your fellow attendees) |
 |15:00 | Simon Hettrick from Southampton will speak on the [Society of RSEs](https://society-rse.org/) |
 |15:30 | James Stix from Edina will speak about the [Noteable service](https://www.ed.ac.uk/information-services/learning-technology/noteable) the University of Edinburgh is offering |
-|16:30 | General discussion |
+|16:00 | Pedro Jacobetti from the UoE School of Social and Political Sciences who will talk
+about music generation from blockchain discourse on Twitter }
+|16:30 | Digital Research Services brief update (Highlight talk) |
+|16:35 | Mario Antonioletti, Edinburgh Carpentries |
 |17:00 | Close |
 
 Please [register](https://www.eventbrite.co.uk/e/cerse-virtual-meeting-tickets-104313719142) for this event in order to get the on-line details. If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
