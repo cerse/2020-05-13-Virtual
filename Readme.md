@@ -31,8 +31,6 @@ If someone violates the Code of Conduct during the event we ask that you report 
 
 ## Schedule
 
-This is a provisional timetable. 
-
 |Time  | Activity      |
 |------| ------|
 |14:30 | Welcome  |
