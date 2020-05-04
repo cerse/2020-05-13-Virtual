@@ -31,15 +31,16 @@ If someone violates the Code of Conduct during the event we ask that you report 
 
 ## Schedule
 
-This is a provisional timetable. **Fix times and items for your event.**
+This is a provisional timetable. 
 
 |Time  | Activity      |
 |------| ------|
 |14:30 | Welcome - **TBD** |
 |14:35 | Ice breaking session (opportunity to get to know your fellow attendees) -- **Optional** |
-|15:00 | **List of talks** (20 minutes + up to 10 minutes for questions) |
-|16:30 | Virtual Coffee and biscuits **TBD** |
+|15:00 | Simon Hettrick from Southampton will speak on the [Society of RSEs](https://society-rse.org/) |
+|15:30 | James Stix from Edina will speak about the [Noteable service](https://www.ed.ac.uk/information-services/learning-technology/noteable) the University of Edinburgh is offering |
+|16:30 | General discussion |
 |17:00 | Close |
 
-If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
+Please [register](https://www.eventbrite.co.uk/e/cerse-virtual-meeting-tickets-104313719142) for this event in order to get the on-line details. If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
 
