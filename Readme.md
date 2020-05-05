@@ -40,7 +40,7 @@ If someone violates the Code of Conduct during the event we ask that you report 
 |15:30 | James Stix from Edina will speak about the [Noteable service](https://www.ed.ac.uk/information-services/learning-technology/noteable) the University of Edinburgh is offering |
 |16:00 | Pedro Jacobetty from the University of Edinburgh School of Social and Political Sciences who will speak about music generation from a blockchain discourse on Twitter |
 |16:30 | Digital Research Services brief update (Highlight talk) |
-|16:35 | Edinburgh Carpentries, Mario Antonioletti |
+|16:45 | Edinburgh Carpentries, Mario Antonioletti |
 |17:00 | Close |
 
 Please [register](https://www.eventbrite.co.uk/e/cerse-virtual-meeting-tickets-104313719142) for this event in order to get the on-line details. If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
