@@ -38,7 +38,7 @@ If someone violates the Code of Conduct during the event we ask that you report 
 |14:50 | Reporting back |
 |15:00 | Simon Hettrick from Southampton will speak on the [Society of RSEs](https://society-rse.org/) |
 |15:30 | James Stix from Edina will speak about the [Noteable service](https://www.ed.ac.uk/information-services/learning-technology/noteable) the University of Edinburgh is offering |
-|16:00 | Pedro Jacobetty from the University of Edinburgh School of Social and Political Sciences who will speak about music generation from a blockchain discourse on Twitter |
+|16:00 | Pedro Jacobetty from the University of Edinburgh School of Social and Political Sciences who will speak about music generation from a blockchain discourse on Twitter on his [Soundchain])https://www.digitalresearchservices.ed.ac.uk/research-in-action/soundchain) project |
 |16:30 | Digital Research Services brief update (Highlight talk) |
 |16:45 | Edinburgh Carpentries, Mario Antonioletti |
 |17:00 | Close |
