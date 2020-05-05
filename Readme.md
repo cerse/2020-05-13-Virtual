@@ -45,5 +45,5 @@ If someone violates the Code of Conduct during the event we ask that you report 
 
 Please [register](https://www.eventbrite.co.uk/e/cerse-virtual-meeting-tickets-104313719142) for this event in order to get the on-line details. If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
 
-The First Virtual CERSE meeting is co-hosted with the University of Edinburgh Digital Research Services and will take place via Collaborate Ultra. Attendees will be able to join the session online without having to download software or purchasing a license. Each attendee will receive a 'Collaborate Session Invite' via email with a link to join the meeting. Although the meeting will start at 14.30, the link to enter the session will be active 30 minutes in advance from 14.00.
+The First Virtual CERSE meeting is co-hosted with the University of Edinburgh [Digital Research Services](https://www.digitalresearchservices.ed.ac.uk/) and will take place via Collaborate Ultra. Attendees will be able to join the session online without having to download software or purchasing a license. Each attendee will receive a 'Collaborate Session Invite' via email with a link to join the meeting. Although the meeting will start at 14.30, the link to enter the session will be active 30 minutes in advance from 14.00.
 
