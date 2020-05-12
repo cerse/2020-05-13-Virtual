@@ -36,11 +36,11 @@ If someone violates the Code of Conduct during the event we ask that you report 
 |14:30 | Welcome - Mario Antonioletti |
 |14:35 | Ice breaking session (opportunity to get to know your fellow attendees) |
 |14:50 | Reporting back |
-|15:00 | Simon Hettrick from Southampton: [Recognising software expertise is key to research](https://bit.ly/2Ajc0IJ) |
+|15:00 | Simon Hettrick from Southampton: [Recognising software expertise is key to research](https://bit.ly/2Ajc0IJ) ([pdf](Slides/simon_hettrick_cerse_may_2020.pdf)) |
 |15:30 | James Stix from Edina will speak about the [Noteable service](https://www.ed.ac.uk/information-services/learning-technology/noteable) the University of Edinburgh is offering |
 |16:00 | Pedro Jacobetty from the University of Edinburgh School of Social and Political Sciences who will speak about music generation from a blockchain discourse on Twitter on his [Soundchain](https://www.digitalresearchservices.ed.ac.uk/research-in-action/soundchain) project |
 |16:30 | Digital Research Services brief update (Highlight talk), David Fergusson |
-|16:45 | Edinburgh Carpentries, Mario Antonioletti |
+|16:45 | Edinburgh Carpentries, Mario Antonioletti ([pptx](Slides/EdCarp.pptx)) ([pdf](Slides/EdCarp.pdf)) |
 |17:00 | Close |
 
 Please [register](https://www.eventbrite.co.uk/e/cerse-virtual-meeting-tickets-104313719142) for this event in order to get the on-line details. If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
