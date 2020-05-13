@@ -33,7 +33,7 @@ If someone violates the Code of Conduct during the event we ask that you report 
 
 |Time  | Activity      |
 |------| ------|
-|14:30 | Welcome - Mario Antonioletti |
+|14:30 | Welcome - Mario Antonioletti ([pptx](Slides/CERSE6.pptx)) ([pdf](Slides/CERSE6.pdf)) |
 |14:35 | Ice breaking session (opportunity to get to know your fellow attendees) |
 |14:50 | Reporting back |
 |15:00 | Simon Hettrick from Southampton: [Recognising software expertise is key to research](https://bit.ly/2Ajc0IJ) ([pdf](Slides/simon_hettrick_cerse_may_2020.pdf)) |
